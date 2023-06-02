@@ -16,7 +16,7 @@ const reviews = [
   },
   {
     id: 3,
-    name: 'omer faruk binici',
+    name: 'faruk',
     job: 'student',
     img: 'faruk.enc',
     text: 'Maca / Kupa / Sinek / Karo'
